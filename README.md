@@ -11,3 +11,4 @@ Follow the instructions within the notebooks to proceed.
 |Notebook|Open|
 |:--|:--|
 |quick-start-to-CMS-open-data.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=quick-start-to-CMS-open-data.ipynb)|
+|Open Data with CMS - outreach and education.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Open-Data-with-CMS---outreach-and-education.ipynb)|
