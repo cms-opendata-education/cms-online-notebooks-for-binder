@@ -10,5 +10,8 @@ Press this button below to launch Binder and get to work. The main beef is in th
 
 |Notebook|Open|
 |:--|:--|
+|quick-start-to-CMS-open-data.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Open-Data-with-CMS-outreach-and-education.ipynb)|
+|quick-start-to-CMS-open-data.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Open-Data-with-CMS-making-animations.ipynb)|
+|quick-start-to-CMS-open-data.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Guide-to-using-Python.ipynb)|
 |quick-start-to-CMS-open-data.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=quick-start-to-CMS-open-data.ipynb)|
 
