@@ -6,12 +6,12 @@ Press this button below to launch Binder and get to work. The main beef is in th
 
 [![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master)
 
-
+Alternatively, if you want to go directly into a specific notebook, you can click here:
 
 |Notebook|Open|
 |:--|:--|
-|quick-start-to-CMS-open-data.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Open-Data-with-CMS-outreach-and-education.ipynb)|
-|quick-start-to-CMS-open-data.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Open-Data-with-CMS-making-animations.ipynb)|
-|quick-start-to-CMS-open-data.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Guide-to-using-Python.ipynb)|
-|quick-start-to-CMS-open-data.ipynb|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=quick-start-to-CMS-open-data.ipynb)|
+|Open Data with CMS: outreach and education|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Open-Data-with-CMS-outreach-and-education.ipynb)|
+|Open Data with CMS: making animations|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Open-Data-with-CMS-making-animations.ipynb)|
+|Guide to using Python|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Guide-to-using-Python.ipynb)|
+|Quick Start with Jupyter Notebooks|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=quick-start-to-CMS-open-data.ipynb)|
 
