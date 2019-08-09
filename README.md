@@ -14,5 +14,6 @@ Alternatively, if you want to go directly into a specific notebook, you can clic
 |Open Data with CMS: making animations|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Open-Data-with-CMS-making-animations.ipynb)|
 |Guide to using Python|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=Guide-to-using-Python.ipynb)|
 |Quick Start with Jupyter Notebooks|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=quick-start-to-CMS-open-data.ipynb)|
+|HST & ITW workshop|[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=HST_IST_workshop2019.ipynb)|
 |Summer Student Workshop|[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cms-opendata-education/cms-online-notebooks-for-binder/master?filepath=SummerStudentWS.ipynb)|
 
